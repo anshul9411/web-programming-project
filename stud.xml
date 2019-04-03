@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="stud.xsl" ?>
+<my_college>
+<student>
+	<name>Anshul Singh</name>
+	<dept>Information Technology</dept>
+	<rno>RA1611008010506</rno>
+</student>
+
+<student>
+	<name>Narendra Modi</name>
+	<dept>Information Technology</dept>
+	<rno>RA1611008010506</rno>
+</student>
+
+<student>
+	<name>Rahul Gandhi</name>
+	<dept>Information Technology</dept>
+	<rno>RA1611008010506</rno>
+</student>
+
+<student>
+	<name>Subramaian Swamy</name>
+	<dept>Information Technology</dept>
+	<rno>RA1611008010506</rno>
+</student>
+
+<student>
+	<name>Sundar Pichai</name>
+	<dept>Information Technology</dept>
+	<rno>RA1611008010506</rno>
+</student>
+
+<student>
+	<name>Mark Zuckerberg</name>
+	<dept>Information Technology</dept>
+	<rno>RA1611008010506</rno>
+</student>
+
+<student>
+	<name>Satya Nadella</name>
+	<dept>Information Technology</dept>
+	<rno>RA1311008010234</rno>
+</student>
+
+<student>
+	<name>Jack Dorsey</name>
+	<dept>Information Technology</dept>
+	<rno>RA1311008010234</rno>
+</student>
+
+<student>
+	<name>Rishabh Pant</name>
+	<dept>Information Technology</dept>
+	<rno>RA1311008010234</rno>
+</student>
+</my_college>
